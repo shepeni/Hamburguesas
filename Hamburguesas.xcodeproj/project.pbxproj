@@ -14,6 +14,7 @@
 		92D4ED4E1C4828E8003B1EA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92D4ED4C1C4828E8003B1EA6 /* LaunchScreen.storyboard */; };
 		92D4ED591C4828E9003B1EA6 /* HamburguesasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D4ED581C4828E9003B1EA6 /* HamburguesasTests.swift */; };
 		92D4ED641C4828E9003B1EA6 /* HamburguesasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D4ED631C4828E9003B1EA6 /* HamburguesasUITests.swift */; };
+		92D4ED721C482A69003B1EA6 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D4ED711C482A69003B1EA6 /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		92D4ED5F1C4828E9003B1EA6 /* HamburguesasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamburguesasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		92D4ED631C4828E9003B1EA6 /* HamburguesasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburguesasUITests.swift; sourceTree = "<group>"; };
 		92D4ED651C4828E9003B1EA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92D4ED711C482A69003B1EA6 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				92D4ED4A1C4828E8003B1EA6 /* Assets.xcassets */,
 				92D4ED4C1C4828E8003B1EA6 /* LaunchScreen.storyboard */,
 				92D4ED4F1C4828E8003B1EA6 /* Info.plist */,
+				92D4ED711C482A69003B1EA6 /* Datos.swift */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				92D4ED461C4828E8003B1EA6 /* ViewController.swift in Sources */,
 				92D4ED441C4828E8003B1EA6 /* AppDelegate.swift in Sources */,
+				92D4ED721C482A69003B1EA6 /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
